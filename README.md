@@ -1,7 +1,7 @@
 # Fernando CS🚀
 ### Web developer and student at engineer
  
-Student at Engineer - Microsoft Learn Student Ambassadors - Lead at Podcast MLSA Latinoamerica, GDG Lead #JavaScript #React #UI/UX #Azure #Python #TypeScript #Astro #NextJS #Tailwind  🇧🇴
+Student at Engineer - Microsoft Learn Student Ambassadors - Lead at Podcast MLSA Latinoamerica, GDG Lead #JavaScript #React #UI/UX #Azure #Python #TypeScript #Astro #NextJS #Tailwind #GraphQl #Redux 🇧🇴
 
 ### Skills and Languages
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
