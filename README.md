@@ -1,6 +1,10 @@
 # Luis Fernando CS 🚀  
 ### FullStack Developer | Community Lead | Tech Enthusiast
 
+## 🤖 About Me
+
+👨🏻‍💻 Fullstack 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 
+🎙️ 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 Lead — active in events like **Google Developer Groups (GDG)**, **Microsoft Learn Student Ambassadors (MLSA)**
 ---
 
 ## 🚀 Tech Stack & Skills
